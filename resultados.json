@@ -1,8 +1,8 @@
 {
     "dupla": {
-        "nome": "dupla X",
+        "nome": "dupla 4",
         "alunos": [
-          {"nome": "Aluno 1", "matricula": "1234"},
+          {"nome": "Maria Eduarda Corrêa Peres", "matricula": "24100814"},
           {"nome": "Aluno 2", "matricula": "5678"}
         ]
     },
@@ -15,12 +15,12 @@
         }
     },
     "utilizacao": {
-        "total combinational functions": 123,
-        "dedicated logic registers": 12,
-        "total pins": 5
+        "total combinational functions": 44,
+        "dedicated logic registers": 57,
+        "total pins": 41
     },
     "atraso": {
-        "Fmax": 2.5,
+        "Fmax": 163.4,
         "unidade": "MHz"
     }
 }
