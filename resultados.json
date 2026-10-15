@@ -1,0 +1,26 @@
+{
+    "dupla": {
+        "nome": "dupla X",
+        "alunos": [
+          {"nome": "Aluno 1", "matricula": "1234"},
+          {"nome": "Aluno 2", "matricula": "5678"}
+        ]
+    },
+    "quartus": {
+        "os": "Quisque de aulas (imagem Quartus)",
+        "versao": "25.1std.0 Build 1129 10/21/2025 SC Lite Edition",
+        "fpga": {
+            "familia": "Cyclone IV E",
+            "dispositivo": "EP4CE40F29C7"
+        }
+    },
+    "utilizacao": {
+        "total combinational functions": 123,
+        "dedicated logic registers": 12,
+        "total pins": 5
+    },
+    "atraso": {
+        "Fmax": 2.5,
+        "unidade": "MHz"
+    }
+}
